@@ -2,9 +2,6 @@
 /*                                                             */
 /*   MIPS-32 Instruction Level Simulator                       */
 /*                                                             */
-/*   ECE 447                                                   */
-/*   Carnegie Mellon University                                */
-/*                                                             */
 /***************************************************************/
 
 
