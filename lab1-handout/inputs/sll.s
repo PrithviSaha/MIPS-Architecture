@@ -1,0 +1,14 @@
+.text
+
+main:
+   li $t0,-256
+   li $t1,0x5
+
+   sll $t8,$t0,$t1
+
+   j end
+
+end:
+   li $v0,10
+   syscall
+
